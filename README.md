@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/vishalh143" target="blank"><img src="https://img.shields.io/twitter/follow/vishalh143?logo=twitter&style=for-the-badge" alt="vishalh143" /></a> </p>
 
-- 🔭 I’m currently working on **Giffy - React Js webapp**
+- 🔭 I’m currently working on **DevTool.AI - React Js webAPP**
 
 - 🌱 I’m currently learning **Node Js**
 
