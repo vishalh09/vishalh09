@@ -1,6 +1,6 @@
 ![MasterHead](https://previews.123rf.com/images/karpenkoilia/karpenkoilia1806/karpenkoilia180600011/102988806-vector-line-web-concept-for-programming-linear-web-banner-for-coding.jpg)
 <h1 align="center">Hi 👋, I'm Vishal Hiremath</h1>
-<h3 align="center">I am frontend developer seeking an opportunity to apply and enhance my skills in React JS, HTML5, CSS, tailwind css and Javascript. Eager to contribute to a dynamic team and create engaging web applications while staying updated with the latest trend. I'm someone who is always on the lookout for modern tools that would improve the experience of both the developers and end-users.</h3>
+<h3 align="center">I am software developer seeking an opportunity to apply and enhance my skills in java, React JS, HTML5, CSS, tailwind css and Javascript. Eager to contribute to a dynamic team and create engaging web applications while staying updated with the latest trend. I'm someone who is always on the lookout for modern tools that would improve the experience of both the developers and end-users.</h3>
 <img align="right" alt="Coding" width="400" src="https://fly.storage.tigris.dev/pai-images/e956e50bcc324e1781bc3eb4d3ffcd9a.jpeg">
 
 
